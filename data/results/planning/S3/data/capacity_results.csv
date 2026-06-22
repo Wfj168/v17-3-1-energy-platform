@@ -1,0 +1,11 @@
+﻿Technology,Capacity,Unit,Model key,Upper bound,Upper-bound utilization [%],Upper bound binding
+PV,33.58654370742542,MW,C_PV,220.0,15.266610776102464,False
+WT,124.44899225467765,MW,C_WT,220.0,56.567723752126206,False
+CHP,14.808806826471622,MW,C_CHP,100.0,14.808806826471622,False
+Heat pump,61.720066079138505,MW,C_HP,150.0,41.14671071942567,False
+Electric chiller,44.69616375476041,MW,C_EC,120.0,37.24680312896701,False
+Gas boiler,-0.0,MW,C_GB,150.0,-0.0,False
+Battery energy,-0.0,MWh,C_BAT_E,0.0,0.0,False
+Battery power,0.0,MW,C_BAT_P,0.0,0.0,False
+Thermal storage energy,-0.0,MWh,C_TS_E,0.0,0.0,False
+Thermal storage power,0.0,MW,C_TS_P,0.0,0.0,False

@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,16984688.02369917,EUR/year
+Fixed O&M cost,4233335.095075179,EUR/year
+Variable operating annual cost,3636977.9709328613,EUR/year
+Private total annual cost,24855001.08970721,EUR/year
+Carbon external cost,553062.2261520624,EUR/year
+Social total annual cost,25408063.315859273,EUR/year
+Annual CO2 emissions,12290.271692268052,tCO2/year
+Annual renewable available,532883.4050391973,MWh/year
+Annual renewable used,507354.6913891144,MWh/year
+Renewable utilization rate (including export),95.20932470242622,%
+Renewable curtailment rate,4.790675297573805,%
+Annual renewable curtailment,25528.713650082987,MWh/year
+Annual renewable local absorption,485271.02891745325,MWh/year
+Annual renewable export,22083.66247166114,MWh/year
+Renewable local consumption rate,95.64729313703653,%
+Renewable local absorption rate,91.06514189192254,%
+Renewable export rate,4.144182810503684,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,5102.967219458845,MWh/year
+Annual grid export,22083.66247166114,MWh/year
+Peak grid import,4.691387537635897,MW
+Peak grid export,5.0,MW
+Grid peak-valley difference,9.691387537635897,MW
+Grid weighted standard deviation,3.282266494180188,MW
+Maximum grid ramp,7.5,MW/step
+Annual battery throughput,18733.124028598544,MWh/year
+Battery equivalent cycles,339.6258624639905,cycles/year
+Annual thermal-storage throughput,23938.406999096722,MWh/year
+Thermal-storage equivalent cycles,268.09306822068305,cycles/year
+Annual flexible-load shifting,0.0,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,0.0,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year

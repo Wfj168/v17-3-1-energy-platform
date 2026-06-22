@@ -1,0 +1,16 @@
+﻿Diagnostic,Value
+Maximum electric balance error,2.1316282072803006e-14
+Maximum heat balance error,7.105427357601002e-15
+Maximum cooling balance error,0.0
+Number of capacity upper bounds >=95%,0.0
+Strict storage exclusivity enabled,1.0
+MILP used,1.0
+Carbon cap binding,0.0
+Annual export share of renewable available [%],4.538818978206129
+Storage rule-constrained mode,0.0
+Grid import-export overlap [MWh/year],0.0
+Flexible-load in-out overlap [MWh/year],0.0
+Renewable export attribution enforced,1.0
+Unmet load hard-fixed to zero,0.0
+Annual EENS limit enabled,1.0
+Critical-load protection enabled,1.0

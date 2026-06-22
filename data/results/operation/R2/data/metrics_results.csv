@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,16781123.581096195,EUR/year
+Fixed O&M cost,4182597.8370355745,EUR/year
+Variable operating annual cost,5776243.088109938,EUR/year
+Private total annual cost,26739964.50624171,EUR/year
+Carbon external cost,846906.6060710201,EUR/year
+Social total annual cost,27586871.11231273,EUR/year
+Annual CO2 emissions,18820.146801578223,tCO2/year
+Annual renewable available,528877.3669060261,MWh/year
+Annual renewable used,495026.5221305521,MWh/year
+Renewable utilization rate (including export),93.59949075274214,%
+Renewable curtailment rate,6.40050924725784,%
+Annual renewable curtailment,33850.84477547398,MWh/year
+Annual renewable local absorption,471071.82323265285,MWh/year
+Annual renewable export,23954.69889789925,MWh/year
+Renewable local consumption rate,95.16092616718792,%
+Renewable local absorption rate,89.07014228808083,%
+Renewable export rate,4.529348464661308,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,16063.9517222295,MWh/year
+Annual grid export,23954.69889789925,MWh/year
+Peak grid import,20.322788105131693,MW
+Peak grid export,5.0,MW
+Grid peak-valley difference,25.322788105131693,MW
+Grid weighted standard deviation,5.595345530532224,MW
+Maximum grid ramp,5.38719620778847,MW/step
+Annual battery throughput,6865.4907643935585,MWh/year
+Battery equivalent cycles,123.9938193690449,cycles/year
+Annual thermal-storage throughput,3936.5703017205124,MWh/year
+Thermal-storage equivalent cycles,58.124188210006665,cycles/year
+Annual flexible-load shifting,7828.932007976144,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,0.0,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year

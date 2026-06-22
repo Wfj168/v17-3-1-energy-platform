@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,14559536.625890039,EUR/year
+Fixed O&M cost,3628880.1584351338,EUR/year
+Variable operating annual cost,7550472.543655548,EUR/year
+Private total annual cost,25738889.32798072,EUR/year
+Carbon external cost,1309857.734959663,EUR/year
+Social total annual cost,27048747.06294038,EUR/year
+Annual CO2 emissions,29107.949665770284,tCO2/year
+Annual renewable available,491162.99099598965,MWh/year
+Annual renewable used,466359.6462053183,MWh/year
+Renewable utilization rate (including export),94.95007864082457,%
+Renewable curtailment rate,5.049921359175426,%
+Annual renewable curtailment,24803.344790671355,MWh/year
+Annual renewable local absorption,446831.6410536029,MWh/year
+Annual renewable export,19528.005151715377,MWh/year
+Renewable local consumption rate,95.8126726206671,%
+Renewable local absorption rate,90.9742080011992,%
+Renewable export rate,3.975870639625375,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,22047.877992078174,MWh/year
+Annual grid export,19528.005151715377,MWh/year
+Peak grid import,25.79374016438746,MW
+Peak grid export,5.0,MW
+Grid peak-valley difference,30.79374016438746,MW
+Grid weighted standard deviation,6.354606770201438,MW
+Maximum grid ramp,5.928716873359399,MW/step
+Annual battery throughput,0.0,MWh/year
+Battery equivalent cycles,0.0,cycles/year
+Annual thermal-storage throughput,0.0,MWh/year
+Thermal-storage equivalent cycles,0.0,cycles/year
+Annual flexible-load shifting,0.0,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,0.0,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year

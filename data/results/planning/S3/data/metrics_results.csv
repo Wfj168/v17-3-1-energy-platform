@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,15171039.467662873,EUR/year
+Fixed O&M cost,3781293.6992198136,EUR/year
+Variable operating annual cost,6135441.569653666,EUR/year
+Private total annual cost,25087774.736536354,EUR/year
+Carbon external cost,947245.1711873766,EUR/year
+Social total annual cost,26035019.907723732,EUR/year
+Annual CO2 emissions,21049.89269305281,tCO2/year
+Annual renewable available,516458.86407294584,MWh/year
+Annual renewable used,486160.45209234697,MWh/year
+Renewable utilization rate (including export),94.13343170419098,%
+Renewable curtailment rate,5.866568295809023,%
+Annual renewable curtailment,30298.411980598856,MWh/year
+Annual renewable local absorption,463730.1319765368,MWh/year
+Annual renewable export,22430.32011581015,MWh/year
+Renewable local consumption rate,95.38623102326113,%
+Renewable local absorption rate,89.79033263548334,%
+Renewable export rate,4.343099068707637,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,13832.597202419369,MWh/year
+Annual grid export,22430.32011581015,MWh/year
+Peak grid import,21.508924879216586,MW
+Peak grid export,5.0,MW
+Grid peak-valley difference,26.508924879216586,MW
+Grid weighted standard deviation,5.30873010333523,MW
+Maximum grid ramp,5.499789449189434,MW/step
+Annual battery throughput,0.0,MWh/year
+Battery equivalent cycles,0.0,cycles/year
+Annual thermal-storage throughput,0.0,MWh/year
+Thermal-storage equivalent cycles,0.0,cycles/year
+Annual flexible-load shifting,7559.351948850632,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,0.0,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year

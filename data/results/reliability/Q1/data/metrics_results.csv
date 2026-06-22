@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,16781123.581096195,EUR/year
+Fixed O&M cost,4182597.8370355745,EUR/year
+Variable operating annual cost,8025.091324494721,EUR/year
+Private total annual cost,20971746.509456262,EUR/year
+Carbon external cost,881.1854441521228,EUR/year
+Social total annual cost,20972627.694900416,EUR/year
+Annual CO2 emissions,19.581898758936063,tCO2/year
+Annual renewable available,1437.9143953849111,MWh/year
+Annual renewable used,1358.8331538544894,MWh/year
+Renewable utilization rate (including export),94.50028167293975,%
+Renewable curtailment rate,5.499718327060247,%
+Annual renewable curtailment,79.0812415304215,MWh/year
+Annual renewable local absorption,1358.8331538544894,MWh/year
+Annual renewable export,0.0,MWh/year
+Renewable local consumption rate,100.0,%
+Renewable local absorption rate,94.50028167293975,%
+Renewable export rate,0.0,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,-8.504606657450808e-15,MWh/year
+Annual grid export,0.0,MWh/year
+Peak grid import,0.0,MW
+Peak grid export,0.0,MW
+Grid peak-valley difference,2.4033108669131717e-14,MW
+Grid weighted standard deviation,2.63241445864174e-15,MW
+Maximum grid ramp,2.4033108669131717e-14,MW/step
+Annual battery throughput,45.892037667152884,MWh/year
+Battery equivalent cycles,0.8288306290484095,cycles/year
+Annual thermal-storage throughput,25.287257183373853,MWh/year
+Thermal-storage equivalent cycles,0.373371026855249,cycles/year
+Annual flexible-load shifting,27.98820820815267,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,-8.504606657450808e-15,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year

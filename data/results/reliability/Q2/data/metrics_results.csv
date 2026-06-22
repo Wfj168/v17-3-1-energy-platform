@@ -1,0 +1,45 @@
+﻿Metric,Value,Unit
+Annualized capital cost,16781123.581096195,EUR/year
+Fixed O&M cost,4182597.8370355745,EUR/year
+Variable operating annual cost,440067.4201622539,EUR/year
+Private total annual cost,21403788.83829402,EUR/year
+Carbon external cost,15935.922070504825,EUR/year
+Social total annual cost,21419724.760364525,EUR/year
+Annual CO2 emissions,354.13160156677384,tCO2/year
+Annual renewable available,896.2474124589546,MWh/year
+Annual renewable used,892.6074703589358,MWh/year
+Renewable utilization rate (including export),99.59386860710346,%
+Renewable curtailment rate,0.40613139289654765,%
+Annual renewable curtailment,3.6399421000188186,MWh/year
+Annual renewable local absorption,892.6074703589358,MWh/year
+Annual renewable export,0.0,MWh/year
+Renewable local consumption rate,100.00000000000001,%
+Renewable local absorption rate,99.59386860710346,%
+Renewable export rate,0.0,%
+Annual unmet load,0.0,MWh/year
+Annual electric unmet load,0.0,MWh/year
+Annual heat unmet load,0.0,MWh/year
+Annual cooling unmet load,0.0,MWh/year
+Electric service rate,100.0,%
+Heat service rate,100.0,%
+Cooling service rate,100.0,%
+Total multi-energy service rate,100.0,%
+Unserved energy ratio,0.0,%
+Expected shortage duration,0.0,h/year
+Annual grid import,414.6085279387879,MWh/year
+Annual grid export,0.0,MWh/year
+Peak grid import,20.632256981922808,MW
+Peak grid export,0.0,MW
+Grid peak-valley difference,17.647080082169822,MW
+Grid weighted standard deviation,4.411249101321656,MW
+Maximum grid ramp,7.5,MW/step
+Annual battery throughput,38.70035024071633,MWh/year
+Battery equivalent cycles,0.6989455527568572,cycles/year
+Annual thermal-storage throughput,50.98061444659797,MWh/year
+Thermal-storage equivalent cycles,0.7527381964601902,cycles/year
+Annual flexible-load shifting,22.841660292205525,MWh/year
+Annual interruptible load,0.0,MWh/year
+Battery simultaneous overlap,0.0,MWh/year
+Thermal-storage simultaneous overlap,0.0,MWh/year
+Grid import-export overlap,0.0,MWh/year
+Flexible-load in-out overlap,0.0,MWh/year
